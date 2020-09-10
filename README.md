@@ -1,4 +1,5 @@
 # Single-Stage-CMOS-Amplifier-and-Switched-capacitor-sample-hold-circuit
+I designed the amplifier based on the given data then the results were not what we wanted so I changed the properties based on experience to acquire the desired results for more information you can read the report 
 # Design the single-stage CMOS amplifier shown in Fig. 1 with the following specifications : 
 * Open-loop DC gain >= 25 V/V
 * Output voltage swing >= 0.5 Vpp
