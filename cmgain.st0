@@ -1,0 +1,41 @@
+***** HSPICE  --  A-2007.09  32-BIT    (Aug 28 2007) 11:37:04 08/01/2020 winnt
+ Input File: c:\users\ali\desktop\kossher\elec3\project\p\cmgain.sp
+ lic:
+ lic: FLEXlm: v8.5b
+ lic: USER:   Mohammad             HOSTNAME: LAPTOP-2JB655DQ
+ lic: HOSTID: "dcfe072975b2 444553544f53 00ff33280d4b 00ff05caf514 00ffed848831
+ lic: Using FLEXlm license file:
+ lic: C:\FLEXLM\hspice_2007-09.lic
+ lic: Checkout 1 hspice;  Encryption code: AD47C1C891DA5D596A45
+ lic: License/Maintenance for hspice will expire on 31-dec-2020/2007.9
+ lic: NODE LOCKED license on hostid "dcfe072975b2 444553544f53 00ff33280d4b 00ff
+ lic:
+ Init: hspice initialization file: D:\synopsys\Hspice_A-2007.09\hspice.ini
+ init: begin read circuit files,  cpu clock=  2.84E-01
+       option acout    =     0.00
+ init: end read circuit files,  cpu clock=  3.75E-01 memory=    287 kb
+ init: begin check errors,  cpu clock=  3.75E-01
+ init: end check errors,  cpu clock=  3.88E-01 memory=    423 kb
+ init: begin setup matrix, pivot=    10 cpu clock=  3.88E-01
+       establish matrix -- done,  cpu clock=  3.92E-01 memory=    428 kb
+       re-order matrix -- done,  cpu clock=  3.94E-01 memory=    429 kb
+ init: end setup matrix,  cpu clock=  3.96E-01 memory=    448 kb
+ dcop: begin dcop,  cpu clock=  3.98E-01
+ dcop: end dcop,  cpu clock=  4.08E-01 memory=    448 kb  tot_iter=      10
+ output: c:\users\ali\desktop\kossher\elec3\project\p\cmgain.ma0
+ sweep: ac ac0    begin, #sweeps=4851 cpu clock=  4.14E-01
+ ac: frequency=    1.00E+01
+ ac: frequency=    9.33E+01
+ ac: frequency=    8.71E+02
+ ac: frequency=    8.13E+03
+ ac: frequency=    7.59E+04
+ ac: frequency=    7.08E+05
+ ac: frequency=    6.61E+06
+ ac: frequency=    6.17E+07
+ ac: frequency=    5.75E+08
+ ac: frequency=    5.37E+09
+ ac: frequency=    5.01E+10
+ sweep: ac ac0    end,  cpu clock=  7.70E-01 memory=    644 kb
+>info:         ***** hspice job concluded
+ Init: hspice initialization file: D:\synopsys\Hspice_A-2007.09\hspice.ini
+ lic: Release hspice token(s)

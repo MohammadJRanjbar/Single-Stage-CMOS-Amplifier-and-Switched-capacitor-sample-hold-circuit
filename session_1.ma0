@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2007.09'
+.TITLE '*****  session_1 *****'
+ gain             unity_gain       phase_margin     temper            
+ alter#            
+   -7.0986           failed           failed          25.0000         
+    1.0000         

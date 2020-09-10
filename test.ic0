@@ -1,0 +1,25 @@
+* "simulator" "HSPICE" 
+* "version" "A-2007.09"
+* "format" "HSP"
+* "rundate" "11:15:51 08/01/2020 "
+* "netlist" "c:\users\ali\desktop\kossher\elec3\project\p\test.sp "
+* "runtitle" "*****  session_1 *****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 = 459.9542m       
++ 2 = 437.4386m       
++ 3 = 779.2229m       
++ 4 = 459.9542m       
++ dd =   1.0000        
++ k1 = 300.0000m       
++ k2 = 300.0000m       
++ ss =   0.            
++ vb = 496.7070m       
++ vin+ = 300.0000m       
++ vin- = 300.0000m       
++ vout = 437.0910m       
+***   END: Saved Operating Point ***                     

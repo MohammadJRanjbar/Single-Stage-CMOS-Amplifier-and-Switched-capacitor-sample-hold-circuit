@@ -1,0 +1,27 @@
+* "simulator" "HSPICE" 
+* "version" "A-2007.09"
+* "format" "HSP"
+* "rundate" "00:13:31 08/01/2020 "
+* "netlist" "c:\users\ali\desktop\kossher\elec3\project\p\transient.sp "
+* "runtitle" "*****  session_1 *****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 = 363.1967m       
++ 2 = 428.4187m       
++ 3 = 715.3345m       
++ 4 = 387.7025m       
++ dd =   1.0000        
++ im0 = 287.4186m       
++ input = 300.0000m       
++ ph1 =   0.            
++ ph2 =   0.            
++ ss =   0.            
++ vb = 559.9844m       
++ vin+ = 300.0000m       
++ vin- = 303.6831m       
++ vout = 274.8373m       
+***   END: Saved Operating Point ***                     
